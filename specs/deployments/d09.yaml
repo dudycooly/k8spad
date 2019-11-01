@@ -11,7 +11,7 @@ spec:
     spec:
       containers:
       - name: sise
-        image: docker4jp/simpleservice:0.1.0
+        image: docker4jp/simpleservice:0.1.2
         ports:
         - containerPort: 9876
         env:
